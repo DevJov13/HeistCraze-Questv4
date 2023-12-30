@@ -1,0 +1,13 @@
+
+z
+java:S1450"]Remove the "hasUserConsent" field and declare it as a local variable in the relevant methods.(áû¥ä8“ñ¿ŒÇ1
+^
+java:S1874"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(öÊÛ®8Ÿñ¿ŒÇ1
+_
+java:S1874"=Remove this use of "setSystemUiVisibility"; it is deprecated.(ü†Ý©øÿÿÿÿ8Ÿñ¿ŒÇ1
+Q
+java:S1874+"/Remove this use of "Handler"; it is deprecated.(’àÞ–úÿÿÿÿ8¢ñ¿ŒÇ1
+m
+java:S18747"KRemove this use of "setOnNavigationItemSelectedListener"; it is deprecated.(œ¹É–ýÿÿÿÿ8¤ñ¿ŒÇ1
+O
+java:S1068"2Remove this unused "hasUserConsent" private field.(áû¥ä8ªñ¿ŒÇ1

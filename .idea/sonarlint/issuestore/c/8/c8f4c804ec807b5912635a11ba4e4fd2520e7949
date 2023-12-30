@@ -1,0 +1,83 @@
+
+a	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(íîå]8ù‘ª‹Ç1
+v
+java:S1192p"TUse already-defined constant 'transformation' instead of duplicating its value here.(¿•ˆ¯ùÿÿÿÿ8û‘ª‹Ç1
+f
+java:S1192U"IUse already-defined constant 'key' instead of duplicating its value here.(ôä›Â8ü‘ª‹Ç1
+o
+java:S1104)"RMake apiURL a static final constant or non-public and provide accessors if needed.(îì…ƒ8ş‘ª‹Ç1
+r
+java:S1104*"UMake policyUrl a static final constant or non-public and provide accessors if needed.(èÙ¿¬8ş‘ª‹Ç1
+p
+java:S1104+"SMake gameURL a static final constant or non-public and provide accessors if needed.(çÇõò8ş‘ª‹Ç1
+y
+java:S1104,"WMake jsInterface a static final constant or non-public and provide accessors if needed.(¸ó­şÿÿÿÿ8ş‘ª‹Ç1
+u
+java:S1104-"SMake success a static final constant or non-public and provide accessors if needed.(•ÆˆÃüÿÿÿÿ8ÿ‘ª‹Ç1
+x
+java:S1104/"VMake sharedPref a static final constant or non-public and provide accessors if needed.(ÈïÛ ıÿÿÿÿ8ÿ‘ª‹Ç1
+w
+java:S11040"UMake navStatus a static final constant or non-public and provide accessors if needed.(Å˜ÿÿÿÿÿ8ÿ‘ª‹Ç1
+I
+java:S1444)",Make this "public static apiURL" field final(îì…ƒ8ÿ‘ª‹Ç1
+L
+java:S1444*"/Make this "public static policyUrl" field final(èÙ¿¬8ÿ‘ª‹Ç1
+J
+java:S1444+"-Make this "public static gameURL" field final(çÇõò8ÿ‘ª‹Ç1
+S
+java:S1444,"1Make this "public static jsInterface" field final(¸ó­şÿÿÿÿ8€’ª‹Ç1
+O
+java:S1444-"-Make this "public static success" field final(•ÆˆÃüÿÿÿÿ8€’ª‹Ç1
+Q
+java:S14440"/Make this "public static navStatus" field final(Å˜ÿÿÿÿÿ8€’ª‹Ç1
+{	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë±À©ùÿÿÿÿ8Ó’ª‹Ç1
+t
+java:S14501"WRemove the "urlCrypt" field and declare it as a local variable in the relevant methods.(¡‡Ó‹8×’ª‹Ç1
+S
+java:S2696;"6Make the enclosing method "static" or remove this set.(™·æë8ä’ª‹Ç1
+k
+java:S1172?"IRemove these unused method parameters "context", "activity", "hasPolicy".(³ÂñÓÿÿÿÿÿ8å’ª‹Ç1
+J
+java:S2440A"(Remove this instantiation of "CryptURL".(€äÉ«ùÿÿÿÿ8å’ª‹Ç1
+X
+java:S1611P"6Remove the parentheses around the "response" parameter(úè×©ıÿÿÿÿ8Ÿ“ª‹Ç1
+O
+java:S1481T"-Remove this unused "var10000" local variable.(¾ì§—úÿÿÿÿ8¡“ª‹Ç1
+S
+java:S2696W"6Make the enclosing method "static" or remove this set.(‘É“§8«—¬‹Ç1
+S
+java:S2696X"6Make the enclosing method "static" or remove this set.(“«§8êº¬‹Ç1
+O
+java:S1611`"3Remove the parentheses around the "error" parameter(„‰z8¤“ª‹Ç1
+H
+java:S1602`",Remove useless curly braces around statement(„‰z8¤“ª‹Ç1
+v	java:S115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒáÚ®8¥“ª‹Ç1
+{	java:S115j"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µş—úıÿÿÿÿ8¥“ª‹Ç1
+v
+java:S3008f"TRename this field "HEX_CHARS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—”¿ñıÿÿÿÿ8¥“ª‹Ç1
+:
+java:S1118l"Hide this public constructor.(²²šÏ8§“ª‹Ç1
+F
+java:S3010m"$Remove this assignment of "keySpec".(Ãª¹Õşÿÿÿÿ8¨“ª‹Ç1
+E
+java:S3010p"#Remove this assignment of "cipher".(¿•ˆ¯ùÿÿÿÿ8¨“ª‹Ç1
+X
+java:S6437m"6Revoke and change this password, as it is compromised.(Ãª¹Õşÿÿÿÿ8¨“ª‹Ç1
+O
+java:S1602£",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8¹“ª‹Ç1
+T
+java:S2696«"6Make the enclosing method "static" or remove this set.(¥ÍÅĞ8º“ª‹Ç1
+T
+java:S2696³"6Make the enclosing method "static" or remove this set.(™·æë8½“ª‹Ç1
+L
+java:S10683"/Remove this unused "agreeButton" private field.(øáÏÿ8Ã“ª‹Ç1
+T
+java:S10684"2Remove this unused "disAgreeButton" private field.(ùŸŠÌüÿÿÿÿ8Ã“ª‹Ç1
+M
+java:S1068g"+Remove this unused "keySpec" private field.(’ƒíÀøÿÿÿÿ8Ä“ª‹Ç1
+L
+java:S1068h"*Remove this unused "cipher" private field.(¶¨Ìëùÿÿÿÿ8Ä“ª‹Ç1
+D
+java:S1068i"'Remove this unused "key" private field.(ÒáÚ®8Ä“ª‹Ç1
+T
+java:S1068j"2Remove this unused "transformation" private field.(µş—úıÿÿÿÿ8Ä“ª‹Ç1
